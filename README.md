@@ -38,7 +38,7 @@ O código CSS inclui uma consulta de mídia que modifica a aparência do carross
 
 ## Autores
 
-Este trecho de código foi criado por Alan Diogo (mailto:alan00753@hotmail.com).
+Este trecho de código foi criado por Alan Diogo.
 
 ## Licença
 
